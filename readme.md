@@ -12,7 +12,7 @@ Django blog is a website that helps users to write, update, delete and view othe
 
 After running the server, you will get the output screen as:
 
-![Home Screen](markdown_img/home_page.png)
+![Home Screen](markdown_img/initial_page.png)
 
 # What can you do with the website?
 
